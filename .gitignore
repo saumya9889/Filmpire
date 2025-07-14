@@ -1,0 +1,39 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# build output
+/build
+/dist
+
+# testing
+/coverage
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# local env files
+.env
+.env.local
+
+# editor configs
+.vscode/
+.idea/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# cache
+.cache/
+node_modules/.cache/
+
+# Alan
+alan-sdk/
+
+# miscellaneous
+*.log
