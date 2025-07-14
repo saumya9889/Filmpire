@@ -37,3 +37,5 @@ alan-sdk/
 
 # miscellaneous
 *.log
+node_modules/
+.cache/
